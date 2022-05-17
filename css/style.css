@@ -1,0 +1,13 @@
+td, th, table {
+    color: black;
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-collapse: inherit;
+    border: 1px solid black;
+    
+}
+table {
+    text-indent: initial;
+    border-spacing: 2px;
+}
